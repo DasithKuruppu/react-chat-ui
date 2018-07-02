@@ -92,15 +92,15 @@ var Chat = function (_React$Component) {
         }
       }), new _lib.Message({
         id: 1,
-        message: "https://www.sample-videos.com/text/Sample-text-file-10kb.txt",
+        message: "https://404store.com/2017/12/08/1194986855125869974rubik_s_cube_random_petr_01.svg.med.png",
         senderName: "George",
         avatar: _react2.default.createElement('img', { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArL5ZYgvYomgLZ6QKxjLO6iK-w6UqdRakfN56wFzWwE7ewq0O', style: { width: "50px" } }),
         timestamp: new Date(),
-        type: 'file',
+        type: 'image',
         metaData: {
           name: 'Random txt',
-          fileType: 'png',
-          thumbnail: 'https://png.icons8.com/cotton/2x/document.png'
+          fileType: 'png'
+
         }
       }), new _lib.Message({
         id: 0,
