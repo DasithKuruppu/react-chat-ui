@@ -1,6 +1,6 @@
 {
   "name": "monkas-chat",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A Chat ui and feed",
   "repository": "https://github.com/dasithkuruppu/react-chat-ui",
   "main": "./lib/index.js",
