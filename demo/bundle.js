@@ -100,7 +100,8 @@ var Chat = function (_React$Component) {
         type: 'image',
         metaData: {
           name: 'Random txt',
-          fileType: 'png'
+          fileType: 'png',
+          thumbnail: 'http://www.ewe.png'
 
         }
       }), new _lib.Message({

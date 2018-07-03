@@ -76,6 +76,7 @@ class Chat extends React.Component {
           metaData:{
             name:'Random txt',
             fileType:'png',
+            thumbnail:'http://www.ewe.png'
             
           }
         }),
